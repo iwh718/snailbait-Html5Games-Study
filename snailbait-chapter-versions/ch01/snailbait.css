@@ -1,0 +1,12 @@
+body {
+   /* Background from CSS3 Patterns Gallery by Anna Kassner */
+   background-color: #000;
+}
+
+#arena {
+   margin: 0 auto;
+   width: 800px;
+   height: 400px;
+}
+
+
